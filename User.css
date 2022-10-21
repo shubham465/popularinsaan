@@ -1,0 +1,15 @@
+body{
+  min-width: 80px;
+}
+
+.user-content{
+  margin: 50px;
+}
+
+.question{
+  font-size: 21px;
+  min-width: fit-content;
+padding-bottom: 10px;
+}
+
+
