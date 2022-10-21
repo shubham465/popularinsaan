@@ -1,0 +1,12 @@
+#img{
+    background: url('./bg-01.jpg')  top center;
+    background-size: cover;
+    position: relative;
+}
+
+
+
+a {
+	text-decoration-line: none;
+  color: #a64bf4;
+}
